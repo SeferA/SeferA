@@ -19,7 +19,7 @@
 
 
 ```
-###ABOUT
+### ABOUT
 ```yaml
    Im High School Student and I'm trying to be a backend developer
    I'm a self-taught software developer
