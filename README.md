@@ -11,8 +11,10 @@
     
 }
 
-
 ```
+
+● I'm working on <b><i>Prismeon Network</b></i></br>
+● I'm learning <b><i>Kotlin</b></i> and <b><i>Go</b></i>
 
 ### ABOUT
 ```yaml
@@ -20,9 +22,6 @@
    I'm a self-taught software developer
 
 ```
-
-● I'm working on <b><i>Prismeon Network</b></i></br>
-● I'm learning <b><i>Kotlin</b></i> and <b><i>Go</b></i>
 
 ## 📌 GitHub Stats And Top Languages
 
