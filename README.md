@@ -3,14 +3,10 @@
 {
     name: Sefer
     contact: {
-      Discord: Sefer#5511
+      Discord: Sefer#1229
     }
     know software language: {
-       HTML,
-       CSS,
-       JS,
-       PHP,
-       JAVA
+       PHP  
     }
     
 }
@@ -24,6 +20,10 @@
    I'm a self-taught software developer
 
 ```
+
+● I'm working on <b><i>Prismeon Network</b></i>
+● I'm learning <b><i>Kotlin</b></i> and <b><i>Go</b></i>
+
 
 ## 📌 GitHub Stats And Top Languages
 
