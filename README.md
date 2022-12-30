@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @SeferA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```json
+{
+   "name": "Sefer",
+   "skills": ["Java", "JavaScript", "PHP"],
+   "work-for": null,
+   "databases": ["MySQL", "MongoDB"],
+   "learn-to": ["Go", "Rust"],
+   "organizations": "i have some ideas for github orgs to soon"
+}
+```
 
 <!---
 SeferA/SeferA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
