@@ -5,7 +5,12 @@
 
 ```js
 if (readme.click == true){
-  var introduce = new AboutMySelf("Sefer", "Turkey", ["Java, "JavaScript", "PHP"], "i have some ideas for github orgs to soon", null);
+  var introduce = new AboutMySelf(
+  "Sefer", "Turkey", 
+  ["Java, "JavaScript", "PHP"], 
+  "i have some ideas for github orgs to soon", 
+  null);
+
   introduce.introduceMySelf();
 }
 
