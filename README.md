@@ -1,7 +1,7 @@
 # Hello!
 
-- Hi, I'm high school student
-- I'm desktop application and back-end developer
+- Hi, I'm a high school student
+- I'm a desktop app and back-end developer
 - I've nearly about 4 years programming experience
 - I'm currently improving the my Web Development skills
 
