@@ -2,6 +2,8 @@
 
 - Hi, I'm high school student
 - I'm desktop application and back-end developer
+- I've nearly about 4 years programming experience
+- I'm currently improving Web skills
 
 ```js
 if (readme.click == true){
