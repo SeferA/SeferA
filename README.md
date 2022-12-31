@@ -1,11 +1,46 @@
-```json
-{
-   "name": "Sefer",
-   "skills": ["Java", "JavaScript", "PHP"],
-   "work-for": null,
-   "databases": ["MySQL", "MongoDB"],
-   "learn-to": ["Go", "Rust"],
-   "organizations": "i have some ideas for github orgs to soon"
+# Hello!
+
+- Hi, I'm high school student
+- I'm desktop application and back-end developer
+
+```js
+if (readme.click == true){
+  var introduce = new AboutMySelf("Sefer", "Turkey", ["Java, "JavaScript", "PHP"], "i have some ideas for github orgs to soon", null);
+  introduce.introduceMySelf();
+}
+
+class AboutMySelf {
+   constructor(name, location, skills, orgs, work-for){
+    this.name = name;
+    this.location = location;
+    this.skills = skills;
+    this.orgs = orgs;
+    this.work-for = work-for;
+  }
+
+  function getName(){
+     return this.name;
+  }
+
+  function getLocation(){
+     return this.location;
+  }
+
+  function getSkills(){
+     return this.skills;
+  }
+
+  function getOrganizations(){
+     return this.orgs;
+  }
+  
+  function getWorkFor(){
+     return this.work-for;
+  }
+
+  function introduceMySelf(){
+     document.writeln(getName() + "<br>" + getLocation() + "<br>" + getSkills() + "<br>" + getOrganizations() + "<br>" + getWorkFor());
+  }
 }
 ```
 
