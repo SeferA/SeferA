@@ -1,55 +1,10 @@
 # Hello!
 
 - Hi, I'm a high school student
-- I'm a desktop app and back-end developer
+- I'm a back-end developer
 - I've nearly about 4 years programming experience
-- I'm currently improving the my Web Development skills
-
-```js
-if (readme.click == true){
-  var introduce = new AboutMySelf(
-  "Sefer", "Turkey", 
-  ["Java, "JavaScript", "PHP"], 
-  "i have some ideas for github orgs to soon", 
-  null);
-
-  introduce.introduceMySelf();
-}
-
-class AboutMySelf {
-   constructor(name, location, skills, orgs, work-for){
-    this.name = name;
-    this.location = location;
-    this.skills = skills;
-    this.orgs = orgs;
-    this.work-for = work-for;
-  }
-
-  function getName(){
-     return this.name;
-  }
-
-  function getLocation(){
-     return this.location;
-  }
-
-  function getSkills(){
-     return this.skills;
-  }
-
-  function getOrganizations(){
-     return this.orgs;
-  }
-  
-  function getWorkFor(){
-     return this.work-for;
-  }
-
-  function introduceMySelf(){
-     document.writeln(getName() + "<br>" + getLocation() + "<br>" + getSkills() + "<br>" + getOrganizations() + "<br>" + getWorkFor());
-  }
-}
-```
+- I'm currently working on Distributed Systems
+- I know these programming languages: "PHP, Java, Javascript, Go"
 
 <!---
 SeferA/SeferA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
