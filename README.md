@@ -1,13 +1,7 @@
-# Hello!
+### Hi there 👋
 
-```YAML
-- Hi, I'm a high school student
-- I'm a back-end developer
-- I've nearly about 4 years programming experience
-- I'm currently working on Distributed Systems
-- I know these programming languages: "PHP, Java, Javascript, Go"
-```
-<!---
-SeferA/SeferA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Sefer!
+
+I'm a Java, PHP, and JavaScript developer working at @null and I do a bunch of open source stuff.
+
+You can also find me on <a href="https://toot.cat/@zkat" rel="me">Mastodon</a> or [Twitter](https://twitter.com/zkat__).
