@@ -1,9 +1,11 @@
-package com.seferari.autoclicker;
+package com.seferari.autoclicker.listener;
 
 import com.github.kwhat.jnativehook.GlobalScreen;
 import com.github.kwhat.jnativehook.NativeHookException;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyListener;
+import com.seferari.autoclicker.ClickActivity;
+import com.seferari.autoclicker.thread.ThreadManager;
 
 public class EventListener implements NativeKeyListener {
 
@@ -21,7 +23,7 @@ public class EventListener implements NativeKeyListener {
      * EventListener constructor 
      * Creates the GUI
      */
-    EventListener() {  
+    public EventListener() {  
       try {
         GlobalScreen.registerNativeHook();
       }

@@ -1,4 +1,5 @@
-package com.seferari.autoclicker;
+package com.seferari.autoclicker.command;
+
 public class Command {
     
     private String name;
