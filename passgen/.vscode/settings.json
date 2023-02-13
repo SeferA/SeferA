@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Sefer\\Desktop\\jnativehook-2.2.2-sources.jar"
+    ]
+}

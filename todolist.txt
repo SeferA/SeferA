@@ -1,0 +1,9 @@
+erpsystemi yazmaya başla
+
+erpsystemden bunalırsan mola için autoclickeri geliştir
+
+yeni bir teknoloji üzerinde geliş (backend teknolojilerinden herhangi biri)
+
+char-replace library yaz
+
+başvuru ve izleme sistemi yaz
